@@ -84,9 +84,9 @@ public class MallAdminService {
 
     public static void sendLoginEmail(String recipientEmail, MallAdmin admin, String msg) {
         // Sender's email address
-        String senderEmail = "rohitb.comp_ioe@bkc.met.edu";
+        String senderEmail = "Your mail id";
         // Sender's email password or app-specific password
-        String password = "72151182B";
+        String password = "pwd";
 
         // Setup mail server properties
         Properties properties = new Properties();
