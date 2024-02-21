@@ -1,6 +1,43 @@
 # Shopping Mall Management System
 
-This is a Spring Boot project for managing a shopping mall system. It handles various aspects of mall management including inventory, sales, and customer management.
+This is a Spring Boot project for managing a shopping mall system.
+
+## Description
+
+The Shopping Mall Management System is a comprehensive platform designed to facilitate the efficient management and operations of a shopping mall. It provides a range of features and functionalities to streamline processes and enhance the overall experience for administrators and users.
+
+## Technologies Used
+
+### Backend:
+- Spring Boot
+- MySQL
+- Spring Data JPA
+- Spring Security
+- RESTful APIs
+- Cache
+- Spring Pagination
+- Reactive Programming
+- Async Processing
+- Mail Service
+- Generative AI Service
+
+### Frontend:
+- React
+- Tailwind CSS
+- Context API
+
+## Features
+
+- **User Authentication**: Secure authentication mechanism for user access.
+- **Data Management**: Efficient management of products, customers, vendors, and employees data.
+- **Cache Implementation**: Implementing caching to optimize data retrieval and enhance performance.
+- **Pagination**: Handling large datasets through pagination to improve user experience.
+- **Reactive Components**: Utilizing reactive programming for responsive and real-time components.
+- **Asynchronous Processing**: Executing tasks asynchronously to improve system responsiveness.
+- **Email Notifications**: Sending notifications and alerts to users via email.
+- **Secure REST API**: Implementing secure RESTful APIs to ensure data integrity and confidentiality.
+- **AI-powered SQL Generation**: Utilizing generative AI service to automate SQL query generation based on user prompts.
+- **Interactive Frontend**: Building an intuitive and user-friendly interface using React and Tailwind CSS.
 
 ## Prerequisites
 
